@@ -1,0 +1,50 @@
+﻿OrderDate,Year,Month,Region,SubCategory,Product,Price,Quantity,Sales
+17/06/2016,2016,June,South,Bookcases,Smartphone,55,79,4345
+02/09/2016,2016,September,South,Chairs,Laptop,58,23,1334
+13/04/2016,2016,April,West,Labels,Tablet,19,60,1140
+03/03/2016,2016,March,West,Binders,Smartwatch,30,67,2010
+20/06/2016,2016,June,Central,Art,Television,31,74,2294
+14/06/2016,2016,June,Central,Appliances,Digital Camera,45,75,3375
+07/06/2016,2016,June,West,Binders,Bluetooth Speaker,100,18,1800
+26/08/2016,2016,August,West,Accessories,Gaming Console,64,31,1984
+09/05/2016,2016,May,Central,Phones,E-reader,3,95,285
+24/02/2016,2016,February,Central,Furnishings,Wireless Earbuds,4,28,112
+02/05/2016,2016,May,West,Storage,Laptop,16,33,528
+22/07/2016,2016,July,Central,Accessories,Tablet,73,90,6570
+06/11/2016,2016,November,Central,Binders,Smartwatch,6,64,384
+03/06/2016,2016,June,East,Accessories,Television,1,90,90
+11/06/2016,2016,June,East,Phones,Digital Camera,55,89,4895
+26/08/2016,2016,August,East,Fasteners,Bluetooth Speaker,68,1,68
+23/05/2016,2016,May,East,Phones,Gaming Console,16,9,144
+26/02/2016,2016,February,East,Storage,Smartphone,80,71,5680
+23/06/2016,2016,June,East,Paper,Laptop,92,72,6624
+26/08/2016,2016,August,East,Chairs,Tablet,57,89,5073
+03/09/2016,2016,September,East,Paper,Smartwatch,76,26,1976
+10/10/2016,2016,October,East,Accessories,Television,35,14,490
+15/01/2016,2016,January,East,Binders,Digital Camera,74,81,5994
+30/10/2016,2016,October,East,Art,Bluetooth Speaker,52,37,1924
+05/01/2016,2016,January,South,Paper,Gaming Console,19,8,152
+04/04/2016,2016,April,East,Binders,E-reader,84,30,2520
+26/04/2016,2016,April,South,Appliances,Wireless Earbuds,62,71,4402
+24/07/2016,2016,July,South,Binders,Laptop,46,24,1104
+31/10/2016,2016,October,Central,Storage,Tablet,63,73,4599
+21/10/2016,2016,October,West,Art,Smartwatch,65,97,6305
+31/07/2016,2016,July,West,Phones,Television,97,2,194
+27/12/2016,2016,December,West,Paper,Digital Camera,50,8,400
+15/02/2016,2016,February,Central,Appliances,Bluetooth Speaker,86,16,1376
+29/03/2016,2016,March,Central,Paper,Gaming Console,28,57,1596
+20/05/2016,2016,May,Central,Accessories,Smartphone,4,20,80
+10/01/2016,2016,January,Central,Binders,Laptop,25,79,1975
+04/05/2016,2016,May,Central,Paper,Tablet,82,26,2132
+06/04/2016,2016,April,Central,Art,Smartwatch,17,82,1394
+26/02/2016,2016,February,Central,Binders,Television,99,63,6237
+23/04/2016,2016,April,East,Furnishings,Digital Camera,96,40,3840
+05/03/2016,2016,March,East,Binders,Bluetooth Speaker,74,88,6512
+23/05/2016,2016,May,East,Storage,Gaming Console,42,29,1218
+29/10/2016,2016,October,East,Envelopes,E-reader,88,75,6600
+23/06/2016,2016,June,East,Phones,Wireless Earbuds,38,81,3078
+27/02/2016,2016,February,West,Chairs,Laptop,7,42,294
+28/09/2016,2016,September,West,Furnishings,Tablet,86,13,1118
+08/03/2016,2016,March,West,Paper,Smartwatch,29,31,899
+27/05/2016,2016,May,West,Paper,Television,30,50,1500
+23/03/2016,2016,March,West,Art,Digital Camera,45,98,4410

@@ -1,0 +1,50 @@
+﻿OrderDate,Year,Month,Region,SubCategory,Product,Price,Quantity,Sales
+05/12/2023,2023,December,South,Bookcases,Smartphone,29,21,609
+17/01/2023,2023,January,South,Chairs,Laptop,10,26,260
+01/04/2023,2023,April,West,Labels,Tablet,29,4,116
+04/05/2023,2023,May,West,Binders,Smartwatch,13,24,312
+14/04/2023,2023,April,Central,Art,Television,11,29,319
+09/08/2023,2023,August,Central,Appliances,Digital Camera,12,13,156
+04/04/2023,2023,April,West,Binders,Bluetooth Speaker,7,15,105
+07/11/2023,2023,November,West,Accessories,Gaming Console,23,30,690
+05/09/2023,2023,September,Central,Phones,E-reader,8,14,112
+02/02/2023,2023,February,Central,Furnishings,Wireless Earbuds,26,4,104
+20/12/2023,2023,December,West,Storage,Laptop,1,8,8
+14/12/2023,2023,December,Central,Accessories,Tablet,22,5,110
+06/10/2023,2023,October,Central,Binders,Smartwatch,7,5,35
+26/09/2023,2023,September,East,Accessories,Television,3,19,57
+08/07/2023,2023,July,East,Phones,Digital Camera,6,17,102
+22/03/2023,2023,March,East,Fasteners,Bluetooth Speaker,14,12,168
+01/10/2023,2023,October,East,Phones,Gaming Console,17,13,221
+06/11/2023,2023,November,East,Storage,Smartphone,1,26,26
+09/08/2023,2023,August,East,Paper,Laptop,28,16,448
+01/07/2023,2023,July,East,Chairs,Tablet,18,5,90
+11/06/2023,2023,June,East,Paper,Smartwatch,17,18,306
+27/07/2023,2023,July,East,Accessories,Television,12,9,108
+21/11/2023,2023,November,East,Binders,Digital Camera,7,18,126
+05/05/2023,2023,May,East,Art,Bluetooth Speaker,20,22,440
+18/05/2023,2023,May,South,Paper,Gaming Console,11,8,88
+03/09/2023,2023,September,East,Binders,E-reader,25,14,350
+15/03/2023,2023,March,South,Appliances,Wireless Earbuds,21,8,168
+22/03/2023,2023,March,South,Binders,Laptop,21,4,84
+15/06/2023,2023,June,Central,Storage,Tablet,11,9,99
+02/08/2023,2023,August,West,Art,Smartwatch,14,21,294
+14/08/2023,2023,August,West,Phones,Television,25,18,450
+22/10/2023,2023,October,West,Paper,Digital Camera,12,19,228
+19/05/2023,2023,May,Central,Appliances,Bluetooth Speaker,22,9,198
+06/02/2023,2023,February,Central,Paper,Gaming Console,4,17,68
+19/03/2023,2023,March,Central,Accessories,Smartphone,28,1,28
+03/08/2023,2023,August,Central,Binders,Laptop,9,16,144
+29/03/2023,2023,March,Central,Paper,Tablet,23,27,621
+13/08/2023,2023,August,Central,Art,Smartwatch,24,16,384
+08/08/2023,2023,August,Central,Binders,Television,5,15,75
+04/02/2023,2023,February,East,Furnishings,Digital Camera,21,24,504
+17/02/2023,2023,February,East,Binders,Bluetooth Speaker,5,23,115
+10/10/2023,2023,October,East,Storage,Gaming Console,26,13,338
+15/09/2023,2023,September,East,Envelopes,E-reader,18,22,396
+24/12/2023,2023,December,East,Phones,Wireless Earbuds,13,27,351
+09/09/2023,2023,September,West,Chairs,Laptop,22,7,154
+29/06/2023,2023,June,West,Furnishings,Tablet,28,7,196
+03/03/2023,2023,March,West,Paper,Smartwatch,26,9,234
+06/05/2023,2023,May,West,Paper,Television,1,18,18
+10/01/2023,2023,January,West,Art,Digital Camera,16,5,80

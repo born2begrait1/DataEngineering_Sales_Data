@@ -1,0 +1,50 @@
+﻿OrderDate,Year,Month,Region,SubCategory,Product,Price,Quantity,Sales
+13/02/2019,2019,February,South,Bookcases,Smartphone,23,6,138
+02/01/2019,2019,January,South,Chairs,Laptop,19,13,247
+20/12/2019,2019,December,West,Labels,Tablet,26,19,494
+22/04/2019,2019,April,West,Binders,Smartwatch,6,16,96
+29/05/2019,2019,May,Central,Art,Television,28,26,728
+30/01/2019,2019,January,Central,Appliances,Digital Camera,28,13,364
+11/11/2019,2019,November,West,Binders,Bluetooth Speaker,22,21,462
+08/06/2019,2019,June,West,Accessories,Gaming Console,30,5,150
+10/04/2019,2019,April,Central,Phones,E-reader,17,19,323
+26/12/2019,2019,December,Central,Furnishings,Wireless Earbuds,11,20,220
+16/12/2019,2019,December,West,Storage,Laptop,3,11,33
+28/03/2019,2019,March,Central,Accessories,Tablet,1,18,18
+21/03/2019,2019,March,Central,Binders,Smartwatch,29,13,377
+23/10/2019,2019,October,East,Accessories,Television,9,14,126
+02/04/2019,2019,April,East,Phones,Digital Camera,20,3,60
+13/07/2019,2019,July,East,Fasteners,Bluetooth Speaker,1,16,16
+13/01/2019,2019,January,East,Phones,Gaming Console,24,21,504
+05/05/2019,2019,May,East,Storage,Smartphone,22,1,22
+22/03/2019,2019,March,East,Paper,Laptop,16,5,80
+25/11/2019,2019,November,East,Chairs,Tablet,14,28,392
+05/04/2019,2019,April,East,Paper,Smartwatch,23,25,575
+19/09/2019,2019,September,East,Accessories,Television,5,23,115
+30/04/2019,2019,April,East,Binders,Digital Camera,7,7,49
+25/07/2019,2019,July,East,Art,Bluetooth Speaker,26,5,130
+13/12/2019,2019,December,South,Paper,Gaming Console,25,30,750
+14/10/2019,2019,October,East,Binders,E-reader,27,24,648
+05/10/2019,2019,October,South,Appliances,Wireless Earbuds,6,1,6
+11/07/2019,2019,July,South,Binders,Laptop,3,6,18
+21/12/2019,2019,December,Central,Storage,Tablet,3,4,12
+10/12/2019,2019,December,West,Art,Smartwatch,23,30,690
+19/12/2019,2019,December,West,Phones,Television,25,26,650
+20/09/2019,2019,September,West,Paper,Digital Camera,30,6,180
+07/10/2019,2019,October,Central,Appliances,Bluetooth Speaker,4,18,72
+02/01/2019,2019,January,Central,Paper,Gaming Console,28,27,756
+14/04/2019,2019,April,Central,Accessories,Smartphone,17,3,51
+19/02/2019,2019,February,Central,Binders,Laptop,1,13,13
+04/09/2019,2019,September,Central,Paper,Tablet,7,3,21
+23/08/2019,2019,August,Central,Art,Smartwatch,14,1,14
+24/06/2019,2019,June,Central,Binders,Television,12,8,96
+05/12/2019,2019,December,East,Furnishings,Digital Camera,18,28,504
+29/12/2019,2019,December,East,Binders,Bluetooth Speaker,18,18,324
+05/01/2019,2019,January,East,Storage,Gaming Console,8,24,192
+16/08/2019,2019,August,East,Envelopes,E-reader,8,13,104
+02/09/2019,2019,September,East,Phones,Wireless Earbuds,21,17,357
+21/11/2019,2019,November,West,Chairs,Laptop,24,11,264
+11/04/2019,2019,April,West,Furnishings,Tablet,3,22,66
+22/09/2019,2019,September,West,Paper,Smartwatch,27,13,351
+30/12/2019,2019,December,West,Paper,Television,21,5,105
+08/03/2019,2019,March,West,Art,Digital Camera,24,9,216

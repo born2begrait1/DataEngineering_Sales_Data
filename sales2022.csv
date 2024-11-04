@@ -1,0 +1,50 @@
+﻿OrderDate,Year,Month,Region,SubCategory,Product,Price,Quantity,Sales
+16/08/2022,2022,August,South,Bookcases,Smartphone,14,18,252
+29/01/2022,2022,January,South,Chairs,Laptop,29,11,319
+03/11/2022,2022,November,West,Labels,Tablet,29,4,116
+26/04/2022,2022,April,West,Binders,Smartwatch,3,21,63
+26/10/2022,2022,October,Central,Art,Television,16,30,480
+26/08/2022,2022,August,Central,Appliances,Digital Camera,16,29,464
+21/10/2022,2022,October,West,Binders,Bluetooth Speaker,12,7,84
+30/07/2022,2022,July,West,Accessories,Gaming Console,9,16,144
+17/02/2022,2022,February,Central,Phones,E-reader,16,11,176
+28/05/2022,2022,May,Central,Furnishings,Wireless Earbuds,11,19,209
+18/03/2022,2022,March,West,Storage,Laptop,2,2,4
+10/06/2022,2022,June,Central,Accessories,Tablet,8,20,160
+23/08/2022,2022,August,Central,Binders,Smartwatch,21,23,483
+12/09/2022,2022,September,East,Accessories,Television,30,30,900
+22/01/2022,2022,January,East,Phones,Digital Camera,1,14,14
+03/10/2022,2022,October,East,Fasteners,Bluetooth Speaker,24,4,96
+06/04/2022,2022,April,East,Phones,Gaming Console,13,27,351
+05/04/2022,2022,April,East,Storage,Smartphone,29,10,290
+11/05/2022,2022,May,East,Paper,Laptop,29,25,725
+26/05/2022,2022,May,East,Chairs,Tablet,8,19,152
+08/12/2022,2022,December,East,Paper,Smartwatch,30,23,690
+19/08/2022,2022,August,East,Accessories,Television,14,23,322
+25/08/2022,2022,August,East,Binders,Digital Camera,12,10,120
+21/01/2022,2022,January,East,Art,Bluetooth Speaker,17,11,187
+31/01/2022,2022,January,South,Paper,Gaming Console,6,5,30
+21/02/2022,2022,February,East,Binders,E-reader,20,18,360
+24/05/2022,2022,May,South,Appliances,Wireless Earbuds,7,3,21
+22/01/2022,2022,January,South,Binders,Laptop,10,18,180
+12/09/2022,2022,September,Central,Storage,Tablet,18,22,396
+10/04/2022,2022,April,West,Art,Smartwatch,24,24,576
+27/06/2022,2022,June,West,Phones,Television,30,22,660
+25/11/2022,2022,November,West,Paper,Digital Camera,15,13,195
+14/04/2022,2022,April,Central,Appliances,Bluetooth Speaker,4,6,24
+09/01/2022,2022,January,Central,Paper,Gaming Console,10,15,150
+27/09/2022,2022,September,Central,Accessories,Smartphone,18,13,234
+16/12/2022,2022,December,Central,Binders,Laptop,9,27,243
+24/12/2022,2022,December,Central,Paper,Tablet,2,11,22
+12/05/2022,2022,May,Central,Art,Smartwatch,15,20,300
+29/03/2022,2022,March,Central,Binders,Television,2,2,4
+25/08/2022,2022,August,East,Furnishings,Digital Camera,15,9,135
+22/11/2022,2022,November,East,Binders,Bluetooth Speaker,21,1,21
+15/03/2022,2022,March,East,Storage,Gaming Console,4,14,56
+03/09/2022,2022,September,East,Envelopes,E-reader,4,20,80
+22/03/2022,2022,March,East,Phones,Wireless Earbuds,30,15,450
+28/09/2022,2022,September,West,Chairs,Laptop,8,8,64
+28/11/2022,2022,November,West,Furnishings,Tablet,8,3,24
+10/01/2022,2022,January,West,Paper,Smartwatch,2,5,10
+13/06/2022,2022,June,West,Paper,Television,6,24,144
+17/11/2022,2022,November,West,Art,Digital Camera,28,17,476

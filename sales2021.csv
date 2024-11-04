@@ -1,0 +1,50 @@
+﻿OrderDate,Year,Month,Region,SubCategory,Product,Price,Quantity,Sales
+04/10/2021,2021,October,South,Bookcases,Smartphone,21,24,504
+02/07/2021,2021,July,South,Chairs,Laptop,10,13,130
+07/01/2021,2021,January,West,Labels,Tablet,25,3,75
+17/09/2021,2021,September,West,Binders,Smartwatch,2,29,58
+23/01/2021,2021,January,Central,Art,Television,3,13,39
+10/05/2021,2021,May,Central,Appliances,Digital Camera,15,23,345
+17/05/2021,2021,May,West,Binders,Bluetooth Speaker,30,14,420
+05/07/2021,2021,July,West,Accessories,Gaming Console,10,11,110
+16/03/2021,2021,March,Central,Phones,E-reader,20,18,360
+16/04/2021,2021,April,Central,Furnishings,Wireless Earbuds,12,25,300
+19/09/2021,2021,September,West,Storage,Laptop,13,27,351
+10/06/2021,2021,June,Central,Accessories,Tablet,2,9,18
+29/12/2021,2021,December,Central,Binders,Smartwatch,25,7,175
+08/11/2021,2021,November,East,Accessories,Television,8,12,96
+11/04/2021,2021,April,East,Phones,Digital Camera,23,12,276
+11/02/2021,2021,February,East,Fasteners,Bluetooth Speaker,6,24,144
+22/09/2021,2021,September,East,Phones,Gaming Console,8,19,152
+24/01/2021,2021,January,East,Storage,Smartphone,7,23,161
+08/06/2021,2021,June,East,Paper,Laptop,22,7,154
+10/06/2021,2021,June,East,Chairs,Tablet,28,15,420
+17/11/2021,2021,November,East,Paper,Smartwatch,14,9,126
+12/05/2021,2021,May,East,Accessories,Television,6,3,18
+26/10/2021,2021,October,East,Binders,Digital Camera,18,15,270
+18/07/2021,2021,July,East,Art,Bluetooth Speaker,22,8,176
+02/03/2021,2021,March,South,Paper,Gaming Console,16,16,256
+21/11/2021,2021,November,East,Binders,E-reader,5,11,55
+02/12/2021,2021,December,South,Appliances,Wireless Earbuds,11,7,77
+09/04/2021,2021,April,South,Binders,Laptop,26,7,182
+14/08/2021,2021,August,Central,Storage,Tablet,9,3,27
+23/07/2021,2021,July,West,Art,Smartwatch,20,29,580
+04/05/2021,2021,May,West,Phones,Television,25,2,50
+06/11/2021,2021,November,West,Paper,Digital Camera,25,30,750
+15/10/2021,2021,October,Central,Appliances,Bluetooth Speaker,22,23,506
+04/10/2021,2021,October,Central,Paper,Gaming Console,1,1,1
+07/03/2021,2021,March,Central,Accessories,Smartphone,14,18,252
+30/11/2021,2021,November,Central,Binders,Laptop,8,18,144
+03/01/2021,2021,January,Central,Paper,Tablet,2,6,12
+07/12/2021,2021,December,Central,Art,Smartwatch,12,26,312
+31/05/2021,2021,May,Central,Binders,Television,6,3,18
+28/11/2021,2021,November,East,Furnishings,Digital Camera,12,21,252
+22/06/2021,2021,June,East,Binders,Bluetooth Speaker,15,13,195
+23/07/2021,2021,July,East,Storage,Gaming Console,28,8,224
+18/07/2021,2021,July,East,Envelopes,E-reader,7,17,119
+03/05/2021,2021,May,East,Phones,Wireless Earbuds,12,8,96
+05/06/2021,2021,June,West,Chairs,Laptop,2,27,54
+20/12/2021,2021,December,West,Furnishings,Tablet,21,7,147
+15/08/2021,2021,August,West,Paper,Smartwatch,25,27,675
+16/05/2021,2021,May,West,Paper,Television,2,5,10
+05/10/2021,2021,October,West,Art,Digital Camera,26,14,364

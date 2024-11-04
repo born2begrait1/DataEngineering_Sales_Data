@@ -1,0 +1,50 @@
+﻿OrderDate,Year,Month,Region,SubCategory,Product,Price,Quantity,Sales
+05/10/2015,2015,October,South,Bookcases,Smartphone,12,19,228
+21/05/2015,2015,May,South,Chairs,Laptop,5,15,75
+11/11/2015,2015,November,West,Labels,Tablet,15,1,15
+07/10/2015,2015,October,West,Binders,Smartwatch,10,12,120
+20/07/2015,2015,July,Central,Art,Television,9,6,54
+27/09/2015,2015,September,Central,Appliances,Digital Camera,5,4,20
+28/04/2015,2015,April,West,Binders,Bluetooth Speaker,10,12,120
+28/04/2015,2015,April,West,Accessories,Gaming Console,1,7,7
+10/05/2015,2015,May,Central,Phones,E-reader,5,9,45
+24/07/2015,2015,July,Central,Furnishings,Wireless Earbuds,2,7,14
+22/10/2015,2015,October,West,Storage,Laptop,6,1,6
+26/04/2015,2015,April,Central,Accessories,Tablet,7,6,42
+09/03/2015,2015,March,Central,Binders,Smartwatch,2,19,38
+27/03/2015,2015,March,East,Accessories,Television,13,4,52
+31/05/2015,2015,May,East,Phones,Digital Camera,17,9,153
+06/07/2015,2015,July,East,Fasteners,Bluetooth Speaker,8,16,128
+22/08/2015,2015,August,East,Phones,Gaming Console,10,4,40
+03/08/2015,2015,August,East,Storage,Smartphone,14,20,280
+04/10/2015,2015,October,East,Paper,Laptop,12,17,204
+05/06/2015,2015,June,East,Chairs,Tablet,10,11,110
+15/12/2015,2015,December,East,Paper,Smartwatch,15,19,285
+23/10/2015,2015,October,East,Accessories,Television,16,9,144
+18/08/2015,2015,August,East,Binders,Digital Camera,20,13,260
+16/10/2015,2015,October,East,Art,Bluetooth Speaker,15,16,240
+26/11/2015,2015,November,South,Paper,Gaming Console,18,7,126
+19/01/2015,2015,January,East,Binders,E-reader,13,15,195
+11/02/2015,2015,February,South,Appliances,Wireless Earbuds,17,8,136
+31/07/2015,2015,July,South,Binders,Laptop,10,7,70
+10/04/2015,2015,April,Central,Storage,Tablet,3,10,30
+21/05/2015,2015,May,West,Art,Smartwatch,1,16,16
+25/05/2015,2015,May,West,Phones,Television,18,12,216
+12/04/2015,2015,April,West,Paper,Digital Camera,7,15,105
+14/11/2015,2015,November,Central,Appliances,Bluetooth Speaker,10,7,70
+11/05/2015,2015,May,Central,Paper,Gaming Console,8,17,136
+24/08/2015,2015,August,Central,Accessories,Smartphone,12,17,204
+13/01/2015,2015,January,Central,Binders,Laptop,10,5,50
+08/02/2015,2015,February,Central,Paper,Tablet,19,4,76
+01/09/2015,2015,September,Central,Art,Smartwatch,1,13,13
+17/12/2015,2015,December,Central,Binders,Television,7,3,21
+06/01/2015,2015,January,East,Furnishings,Digital Camera,11,12,132
+07/12/2015,2015,December,East,Binders,Bluetooth Speaker,16,18,288
+03/11/2015,2015,November,East,Storage,Gaming Console,12,18,216
+19/05/2015,2015,May,East,Envelopes,E-reader,18,7,126
+17/03/2015,2015,March,East,Phones,Wireless Earbuds,8,1,8
+24/02/2015,2015,February,West,Chairs,Laptop,1,19,19
+18/12/2015,2015,December,West,Furnishings,Tablet,17,2,34
+17/11/2015,2015,November,West,Paper,Smartwatch,8,1,8
+27/05/2015,2015,May,West,Paper,Television,5,12,60
+08/11/2015,2015,November,West,Art,Digital Camera,15,19,285
